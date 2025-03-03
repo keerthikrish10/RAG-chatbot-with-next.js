@@ -50,3 +50,8 @@ npm run dev
 cd frontend
 npm install
 npm start
+
+SAMPLE UI :
+
+![image](https://github.com/user-attachments/assets/c9e484cd-7a76-4bd2-801c-62d1447f5441)
+
